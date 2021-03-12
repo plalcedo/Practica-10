@@ -3,3 +3,7 @@
     height: 300px;
     border-radius: 50%;
 }
+
+.bgImg {
+    background-image: url(../assets/img/star.png);
+}
